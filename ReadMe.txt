@@ -34,4 +34,8 @@ Other notes:
 AppWizard uses "TODO:" comments to indicate parts of the source code you
 should add to or customize.
 
+Project name: PTM-HelloGit-Kopec
+Author: Mateusz Kopeć
+
+
 /////////////////////////////////////////////////////////////////////////////
