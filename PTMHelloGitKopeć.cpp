@@ -6,6 +6,8 @@
 
 int main()
 {
-    return 0;
+	std::cout<<"Hello Github!"
+	std::cout << "Ja, Mateusz Kopeć, jestem pierwszym autorem tego programu!"
+		return 0;
 }
 
